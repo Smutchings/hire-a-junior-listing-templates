@@ -17,6 +17,7 @@ comments: false
 title: [Your Full Name]
 first_name: [Your First Name(s)]
 Last _name: [Your Last Name(s)]
+contact_email:  # Your email address
 description: [A one or two sentence description of yourself]
 
 # Micro navigation

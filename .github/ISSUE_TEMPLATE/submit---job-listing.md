@@ -20,7 +20,8 @@ description: # A sentence or two about the job. Does not support line breaks or 
 # Employer box
 employer:
     title: # Employer Name
-    title_url: 'https://' #Employer's Web address
+    title_url: 'https://' # Employer's Web address
+    contact_email:  # Your email address
     external_url: true
     description: # Sum up the company in one sentence
 
