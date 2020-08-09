@@ -2,7 +2,7 @@
 name: Submit - Junior Listing
 about: Submit yourself as a Junior to be listed on www.hireajunior.co.uk
 title: "[SUBMIT - JUNIOR]"
-labels: ''
+labels: new junior listing
 assignees: Smutchings
 
 ---
